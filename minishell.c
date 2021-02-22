@@ -244,15 +244,3 @@ void errhandle(char* msg)
 perror(msg);
 exit(1);
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
